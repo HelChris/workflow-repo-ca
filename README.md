@@ -52,7 +52,7 @@ This project includes both unit tests and end-to-end tests.
 ### Unit Tests (Vitest)
 
 ```bash
-#Run all tests
+# Run all tests
 npm test
 
 # Run tests in watch mode
