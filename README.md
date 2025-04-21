@@ -1,6 +1,6 @@
 ##### Workflow repo for the CA
 
-#### Goal
+##### Goal
 
 The objective of this assignment is to apply the skills and knowledge gained during the workflow course to enhance the quality of a website. You will do this by configuring tools and defining tests that improve the efficiency of the development process.
 
