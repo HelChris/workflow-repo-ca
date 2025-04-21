@@ -1,9 +1,6 @@
-##### Workflow repo for the CA
+# Venues Web Application
 
-Goal:
-The objective of this assignment is to apply the skills and knowledge gained during the workflow course to enhance the quality of a website. You will do this by configuring tools and defining tests that improve the efficiency of the development process.
-
-# | Venues Web Application |
+> _Note: This repository was created to demonstrate workflow tools and testing practices for a Noroff course assignment._
 
 ## Project Overview
 
